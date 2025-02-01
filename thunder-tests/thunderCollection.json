@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "c274f42c-1205-4f3c-b567-fb1e00d5b57f",
+    "colName": "WhatsApp",
+    "created": "2025-02-01T08:43:19.391Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "e798ea90-1ccd-4833-af1a-125edae0228f",
+        "name": "auth",
+        "containerId": "",
+        "created": "2025-02-01T08:43:37.242Z",
+        "sortNum": 10000
+      }
+    ]
+  }
+]

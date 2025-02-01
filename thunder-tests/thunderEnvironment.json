@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "14d3f58a-aa5c-4681-ae01-7bc5350399f7",
+    "name": "env",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2025-02-01T08:45:45.064Z",
+    "modified": "2025-02-01T08:45:45.064Z",
+    "data": [
+      {
+        "name": "projectBaseUrl",
+        "value": "http://localhost:8000/api"
+      },
+      {
+        "name": "baseUrl",
+        "value": "https://api.twilio.com/2010-04-01/Accounts"
+      },
+      {
+        "name": "twilio_sid",
+        "value": ""
+      },
+      {
+        "name": "auth_token",
+        "value": ""
+      }
+    ]
+  }
+]

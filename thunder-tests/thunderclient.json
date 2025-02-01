@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "b286acc9-3e8a-4d8c-92bd-856ee9a3f91c",
+    "colId": "c274f42c-1205-4f3c-b567-fb1e00d5b57f",
+    "containerId": "e798ea90-1ccd-4833-af1a-125edae0228f",
+    "name": "post",
+    "url": "{{projectBaseUrl}}/whatsapp",
+    "method": "POST",
+    "sortNum": 10000,
+    "created": "2025-02-01T08:48:31.832Z",
+    "modified": "2025-02-01T09:15:06.446Z",
+    "headers": [
+      {
+        "name": "Accept",
+        "value": "application/json"
+      }
+    ],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"phone\": \"01743369163\", \n    \"message\": \"Hello, this is a test message\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
